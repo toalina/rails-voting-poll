@@ -2,5 +2,7 @@
 
 Following the Railsbridge tutorial for Intro to Rails
 Link to docs [here](http://docs.railsbridge.org/docs/)
+Link to deployed project [here](https://frozen-cove-4892.herokuapp.com/)
 
 Voting poll allows user to add a topic, edit a topic, upvote and downvote on topics, and delete a topic. No authentication. Anyone can add, edit, vote, and delete anonymously.
+
